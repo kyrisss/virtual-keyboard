@@ -1,0 +1,1 @@
+//!caps || shift ? keyItem.innerText = keys[key][lang].caseUp : keyItem.innerText = keys[key][lang].caseDown
