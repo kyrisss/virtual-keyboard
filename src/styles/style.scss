@@ -32,7 +32,7 @@ html {
 .keyboard-wrapper {
   max-width: 1008px;
   width: 100%;
-  background-color: #e7e7e7;
+  background-color: #929292;
 }
 
 .row {
@@ -54,12 +54,12 @@ html {
 
   &:hover {
     background-color: #333;
-    color: #fff;
+    color: rgb(233, 248, 147);
   }
 
   &.active {
     background-color: #333;
-    color: #fff;
+    color: rgb(233, 248, 147);
     border-radius: 50px;
   }
 }
